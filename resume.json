@@ -1,0 +1,78 @@
+{
+  "Profile Summary": {
+    "Name": "Harshad Bankar",
+    "Location": "Pune, India",
+    "Email": "harshadb1804@gmail.com",
+    "Phone": "+91 9716412121",
+    "Summary": "Pursuing a B-Tech in Information Technology at Vishwakarma Institute of Information Technology, with a CGPA of 8.65. Developed skills in AWS, Cybersecurity and has a keen interest in DevOps, software development, and cloud engineering. Participated in hackathons, showcasing problem-solving skills and team collaboration."
+  },
+  "Technical Skills": {
+    "Languages": ["C++", "Python", "SQL"],
+    "Technologies": ["AWS", "Kubernetes", "Docker"],
+    "Tools": ["Nmap", "Wireshark"],
+    "Relevant Coursework": ["Operating Systems", "DBMS", "Computer Networking", "Data Structure"]
+  },
+  "Project Work": [
+    {
+      "Title": "Travel Management System",
+      "Description": "Developed using C++ OOP concepts, allows users to book hotels and cabs and also provide the functionality to print bills. This system streamlines the booking process and ensures accurate billing for users."
+    },
+    {
+      "Title": "DevOps Project",
+      "Description": "Deployed and hosted a highly available three-tier architecture application using GitHub, Jenkins, Docker, Kubernetes, AWS, EKS, and EC2."
+    },
+    {
+      "Title": "Smart Salon",
+      "Description": "Developed a mobile application using Flutter and Firebase for managing a salon. It allows users to book and schedule appointments and handle various salon management tasks efficiently."
+    },
+    {
+      "Title": "WordPress",
+      "Description": "Deployed and hosted a highly-available WordPress application using EC2, RDS, Route 53, ASG, and VPC."
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "Vishwakarma Institute Of Information Technology, Pune",
+      "Degree": "B.Tech in Information Technology",
+      "Dates": "Dec 2021 - Jun 2025",
+      "CGPA": "8.65/10"
+    },
+    {
+      "Institution": "K P Jadhav Junior College, Ahmednagar",
+      "Degree": "B.Tech in Information Technology",
+      "Dates": "Jun 2020 - Jun 2021",
+      "Percentage": "89.33%"
+    }
+  ],
+  "Certifications": [
+    {
+      "Title": "CCNA - Introduction to Networks",
+      "Issuer": "Cisco"
+    },
+    {
+      "Title": "Google Cybersecurity Professional Certificate",
+      "Issuer": "Coursera"
+    },
+    {
+      "Title": "Ethical Hacking",
+      "Issuer": "NPTEL"
+    },
+    {
+      "Title": "AWS Academy Cloud Foundations",
+      "Issuer": "AWS"
+    }
+  ],
+  "Achievements": [
+    {
+      "Title": "Research Paper Presentation",
+      "Event": "ICAD workshop 2024",
+      "Topic": "HCI for user wellbeing and peace"
+    }
+  ],
+  "Links": {
+    "GitHub": "https://github.com/Harshadb18",
+    "LinkedIn": "https://www.linkedin.com/in/harshad-bankar-562b72229/",
+    "Leetcode": "https://leetcode.com/u/harshadb1804/",
+    "Codechef": "https://www.codechef.com/users/harshad1804"
+  }
+}
